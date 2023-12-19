@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Mantziou"
+  given-names: "Anastasia"
+title: "Bayesian model-based clustering for populations of network data"
+version: 1.0.0
+date-released: 2023
+url: "https://github.com/mantziou/Bayesian_clustering_for_populations_of_networks"
