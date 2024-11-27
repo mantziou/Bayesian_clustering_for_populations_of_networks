@@ -1,6 +1,6 @@
 # Bayesian_clustering_for_populations_of_networks
 
-This repository contains code related to the paper Mantziou, A., Lunagomez, S. and Mitra, R., 2021. Bayesian model-based clustering for populations of network data. arXiv preprint arXiv:2107.03431 which is accepted for publication in the Annals of Applied Statistics [(link to preprint)](https://arxiv.org/abs/2107.03431).
+This repository contains code related to the paper Mantziou, A., Lunagomez, S. and Mitra, R., 2021. Bayesian model-based clustering for populations of network data. Ann. Appl. Stat. 18(1): 266-302 (March 2024) [(link to paper)](https://doi.org/10.1214/23-AOAS1789).
 
 This repository contains the data and code to reproduce the simulations presented in  Mantziou, A., Lunagomez, S. and Mitra, R., 2021.
 
